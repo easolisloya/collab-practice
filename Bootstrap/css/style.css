@@ -3,17 +3,26 @@
     padding: 0;
 }
 
+.container-fluid {
+    height: 100vh;
+}
+
 .nav-bar {
     height: 50px;
     background-color: #FEB996;
 }
 
+.column-row {
+    height: 100%;
+}
+
 .left-column {
-    height: 500px;
+    height: 100%;
     background-color: #F57E7C;
 }
 
 .right-column {
+    height: 100%;
     background-color: #843b62;
 }
 
