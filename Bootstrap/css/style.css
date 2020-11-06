@@ -11,6 +11,12 @@ body {
     background-color: #FEB996;
 }
 
+.jumbotron {
+    margin-top: 10px;
+    height: 200px;
+    background-color: wheat;
+}
+
 .column-row {
     height: 100%;
 }
@@ -22,10 +28,12 @@ body {
 
 .right-column {
     height: 100%;
+    margin-right: 200px;
     background-color: #843b62;
 }
 
 .footer {
     height: 50px;
+    margin-top: 10px;
     background-color: #621940;
 }
