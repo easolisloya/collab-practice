@@ -14,7 +14,13 @@ body {
 .jumbotron {
     margin-top: 10px;
     height: 200px;
-    background-color: wheat;
+    background: url("../img/wheat.jpg") no-repeat;
+    background-size: cover;
+}
+
+.title {
+    text-shadow: 2px 2px 5px black;
+    letter-spacing: 10px;
 }
 
 .column-row {
